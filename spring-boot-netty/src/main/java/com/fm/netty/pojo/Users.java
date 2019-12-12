@@ -1,5 +1,9 @@
 package com.fm.netty.pojo;
 
+import javax.persistence.Column;
+import javax.persistence.Table;
+
+@Table(name = "users")
 public class Users {
     @Column(name = "USER")
     private String user;

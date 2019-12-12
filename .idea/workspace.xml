@@ -2,17 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mybatis/GeneratorDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/utils/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/ChatMsgMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/FriendsRequestMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/MyFriendsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/ChatMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/FriendsRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/MyFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/ChatMsgMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/FriendsRequestMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/MyFriendsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/mapper/ChatMsgMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/mapper/FriendsRequestMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/mapper/MyFriendsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/ChatMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/FriendsRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/MyFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/ChatMsgMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/FriendsRequestMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/MyFriendsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/generatorConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/SpringBootNettyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,37 +77,43 @@
     </option>
   </component>
   <component name="ProjectId" id="1UsGTs426zCFjL6MrU2Dqrb9GOf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576122279791" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/smy-xf/springboot-netty-fm-muiApp.git" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fm.netty.utils" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\resources" />
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis\src\main\resources" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis\src\main\java\com\fm\netty\mybatis" />
-      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\utils" />
-      <recent name="E:\workspaces\idea-workspace\spring-boot-netty-fm\springboot-netty-fm-muiApp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,7 +224,7 @@
     </configuration>
     <configuration name="SpringBootNettyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-netty" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fm.netty.SpringBootNettyApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fm.netty.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -232,7 +258,7 @@
       <workItem from="1576122410413" duration="1183000" />
       <workItem from="1576137905959" duration="1461000" />
       <workItem from="1576139459056" duration="2090000" />
-      <workItem from="1576148042213" duration="3046000" />
+      <workItem from="1576148042213" duration="5684000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>
@@ -255,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576141491361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="s1">
+      <created>1576151128421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576151128421</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +306,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="s" />
     <MESSAGE value="s1" />
     <option name="LAST_COMMIT_MESSAGE" value="s1" />

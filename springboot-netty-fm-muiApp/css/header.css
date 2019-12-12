@@ -1,0 +1,12 @@
+/* header样式自定义 */
+.title {
+	background-color: #c9394a;
+}
+.title-class {
+	color: white;
+}
+
+/* mui-bar-tab激活样式自定义 */
+.mui-bar-tab .mui-tab-item.mui-active {
+	color: #c9394a;
+}

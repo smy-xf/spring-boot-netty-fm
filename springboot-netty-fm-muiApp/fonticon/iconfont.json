@@ -1,0 +1,72 @@
+{
+  "id": "1551615",
+  "name": "fm-muiapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "100742",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "700770",
+      "name": "聊几句",
+      "font_class": "liaojiju",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1160138",
+      "name": "faxian",
+      "font_class": "faxian",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1164839",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1703535",
+      "name": "通讯录",
+      "font_class": "tongxunlu",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1718359",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4409280",
+      "name": "发现",
+      "font_class": "ziyuan",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "4553736",
+      "name": "通讯录",
+      "font_class": "tongxunlu1",
+      "unicode": "e7de",
+      "unicode_decimal": 59358
+    },
+    {
+      "icon_id": "7674878",
+      "name": "通讯录",
+      "font_class": "cedaohang-tongxunlu",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    }
+  ]
+}

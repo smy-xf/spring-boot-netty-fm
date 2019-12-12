@@ -14,7 +14,7 @@ import tk.mybatis.spring.annotation.MapperScan;
  * @createTime 2019/12/12 20:35
  */
 // 扫描 所有需要的包, 包含一些自用的工具类包 所在的路径
-@SpringBootApplication(scanBasePackages = {"com.fm.netty"})
+@SpringBootApplication(scanBasePackages = {"com.fm.netty","org.n3r.idworker"})
 // 扫描mybatis mapper包路径
 @MapperScan(basePackages = "com.fm.netty.mapper")
 public class Application {

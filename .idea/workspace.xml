@@ -90,7 +90,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/smy-xf/springboot-netty-fm-muiApp.git" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspaces\idea-workspace\spring-boot-netty-fm\springboot-netty-fm-muiApp" />
       <recent name="E:\workspaces\idea-workspace\spring-boot-netty-fm\spring-boot-netty-hello\src\main\java\com\fm\netty\hello" />
     </key>
   </component>
@@ -191,10 +195,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1576139719512" />
-    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1576139789271">
+    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1576141458286">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576139789271" />
+    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576141458286" />
     <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1576141135081">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

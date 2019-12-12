@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/IMoocJSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/MD5Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/DayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/InvalidSystemClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/RandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/Sid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/WorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/strategy/FileLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/utils/HttpReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/utils/IPv4Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/utils/Ip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/utils/Props.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/utils/Serializes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/org/n3r/idworker/utils/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty-fm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty-fm.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -260,7 +240,7 @@
       <workItem from="1576122410413" duration="1183000" />
       <workItem from="1576137905959" duration="1461000" />
       <workItem from="1576139459056" duration="2090000" />
-      <workItem from="1576148042213" duration="11220000" />
+      <workItem from="1576148042213" duration="11366000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>
@@ -311,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576158321989</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加工具类">
+      <created>1576159461902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576159461902</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +322,8 @@
     <MESSAGE value="底层框架搭建" />
     <MESSAGE value="mybatis映射问题修复" />
     <MESSAGE value="springboot整合netty" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot整合netty" />
+    <MESSAGE value="添加工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加工具类" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576139719512">

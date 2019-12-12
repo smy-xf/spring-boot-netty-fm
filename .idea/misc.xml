@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-netty/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-netty-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/sprinb-boot-netty-mybatis/pom.xml" />
       </list>
     </option>
   </component>

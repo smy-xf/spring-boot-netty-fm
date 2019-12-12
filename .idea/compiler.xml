@@ -9,11 +9,13 @@
         <module name="spring-boot-netty-fm" />
         <module name="spring-boot-netty-hello" />
         <module name="spring-boot-netty" />
+        <module name="sprinb-boot-netty-mybatis" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sprinb-boot-netty-mybatis" options="" />
       <module name="spring-boot-netty" options="-parameters" />
       <module name="spring-boot-netty-hello" options="-parameters" />
     </option>

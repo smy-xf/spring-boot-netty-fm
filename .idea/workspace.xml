@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="" />
+    <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mybatis/GeneratorDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/utils/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,9 +44,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\MAVEN_repository\repository" />
-        <option name="mavenHome" value="D:/Develop Soft/apache-maven-3.6.2" />
-        <option name="userSettingsFile" value="D:\Develop Soft\apache-maven-3.6.2\conf\settings.xml" />
+        <option name="localRepository" value="D:\soft\apache-maven-3.6.2\repo" />
+        <option name="mavenHome" value="D:/soft/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -52,25 +69,53 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576122279791" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-netty-fm-muiApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/smy-xf/springboot-netty-fm-muiApp.git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis\src\main\resources" />
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis" />
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis\src\main\java\com\fm\netty\mybatis" />
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\utils" />
       <recent name="E:\workspaces\idea-workspace\spring-boot-netty-fm\springboot-netty-fm-muiApp" />
-      <recent name="E:\workspaces\idea-workspace\spring-boot-netty-fm\spring-boot-netty-hello\src\main\java\com\fm\netty\hello" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WsServer">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GeneratorDisplay">
+    <configuration name="GeneratorDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fm.netty.mybatis.mybatis.GeneratorDisplay" />
+      <module name="sprinb-boot-netty-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fm.netty.mybatis.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fm.netty.hello.HelloServer" />
       <module name="spring-boot-netty-hello" />
@@ -144,6 +189,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SprinbBootNettyMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sprinb-boot-netty-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fm.netty.mybatis.SprinbBootNettyMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootNettyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-netty" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fm.netty.SpringBootNettyApplication" />
@@ -160,22 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GeneratorDisplay" />
         <item itemvalue="Application.WsServer" />
         <item itemvalue="Application.HelloServer" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -191,6 +232,7 @@
       <workItem from="1576122410413" duration="1183000" />
       <workItem from="1576137905959" duration="1461000" />
       <workItem from="1576139459056" duration="2090000" />
+      <workItem from="1576148042213" duration="3046000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>
@@ -218,6 +260,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s" />

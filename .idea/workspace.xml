@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent（客户端请求示例）/WebContent（客户端请求示例）.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent（客户端请求示例）/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/css/mui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/css/mui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fm-chatlist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fm-contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fm-discover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fm-me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/demo_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonticon/iconfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/fonts/mui.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/js/mui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/js/mui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-netty-fm-muiApp/springboot-netty-fm-muiApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,6 +97,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="springboot-netty-fm-muiApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="springboot-netty-fm-muiApp" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootNettyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-netty" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fm.netty.SpringBootNettyApplication" />
@@ -171,7 +190,7 @@
       <workItem from="1576121367752" duration="961000" />
       <workItem from="1576122410413" duration="1183000" />
       <workItem from="1576137905959" duration="1461000" />
-      <workItem from="1576139459056" duration="1847000" />
+      <workItem from="1576139459056" duration="2090000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>
@@ -180,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576139791565</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="s">
+      <created>1576141444434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576141444434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="s1">
+      <created>1576141491361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576141491361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,17 +221,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s" />
-    <option name="LAST_COMMIT_MESSAGE" value="s" />
+    <MESSAGE value="s1" />
+    <option name="LAST_COMMIT_MESSAGE" value="s1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576139719512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1576139719512" />
-    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1576141458286">
+    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1576141489454">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576141458286" />
+    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576141489454" />
     <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1576141135081">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -223,10 +257,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="279" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576140329864" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1576139936472">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1576141548903">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1576139936472" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1576141548903" />
     <state x="375" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1576137909779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

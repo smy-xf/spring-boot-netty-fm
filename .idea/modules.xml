@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebContent（客户端请求示例）/WebContent（客户端请求示例）.iml" filepath="$PROJECT_DIR$/WebContent（客户端请求示例）/WebContent（客户端请求示例）.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-netty-fm-muiApp/springboot-netty-fm-muiApp.iml" filepath="$PROJECT_DIR$/springboot-netty-fm-muiApp/springboot-netty-fm-muiApp.iml" />
-    </modules>
-  </component>
-</project>

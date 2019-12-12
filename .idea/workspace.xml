@@ -4,8 +4,7 @@
     <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty-fm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty-fm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty-hello/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty-hello/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -240,7 +239,7 @@
       <workItem from="1576122410413" duration="1183000" />
       <workItem from="1576137905959" duration="1461000" />
       <workItem from="1576139459056" duration="2090000" />
-      <workItem from="1576148042213" duration="11366000" />
+      <workItem from="1576148042213" duration="11558000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>
@@ -298,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576159461902</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="底层框架搭建">
+      <created>1576159587158</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576159587158</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,11 +325,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="s" />
     <MESSAGE value="s1" />
-    <MESSAGE value="底层框架搭建" />
     <MESSAGE value="mybatis映射问题修复" />
     <MESSAGE value="springboot整合netty" />
     <MESSAGE value="添加工具类" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加工具类" />
+    <MESSAGE value="底层框架搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="底层框架搭建" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576139719512">

@@ -3,7 +3,7 @@ package com.fm.netty.utils;
 /**
  * @author xiaofan
  * @version 1.0.0
- * @ClassName IMoocJSONResult.java
+ * @ClassName JSONResult.java
  * @Description 自定义响应数据结构
  * * 				这个类是提供给门户，ios，安卓，微信商城用的
  * * 				门户接受此类数据后需要使用本类的方法转换成对于的数据类型格式（类，或者list）
@@ -15,7 +15,7 @@ package com.fm.netty.utils;
  * * 				555：异常抛出信息
  * @createTime 2019/12/12 21:58
  */
-public class IMoocJSONResult {
+public class JsonResult {
 
     // 响应业务状态
     private Integer status;
@@ -28,35 +28,35 @@ public class IMoocJSONResult {
 
     private String ok;    // 不使用
 
-    public static IMoocJSONResult build(Integer status, String msg, Object data) {
-        return new IMoocJSONResult(status, msg, data);
+    public static JsonResult build(Integer status, String msg, Object data) {
+        return new JsonResult(status, msg, data);
     }
 
-    public static IMoocJSONResult ok(Object data) {
-        return new IMoocJSONResult(data);
+    public static JsonResult ok(Object data) {
+        return new JsonResult(data);
     }
 
-    public static IMoocJSONResult ok() {
-        return new IMoocJSONResult(null);
+    public static JsonResult ok() {
+        return new JsonResult(null);
     }
 
-    public static IMoocJSONResult errorMsg(String msg) {
-        return new IMoocJSONResult(500, msg, null);
+    public static JsonResult errorMsg(String msg) {
+        return new JsonResult(500, msg, null);
     }
 
-    public static IMoocJSONResult errorMap(Object data) {
-        return new IMoocJSONResult(501, "error", data);
+    public static JsonResult errorMap(Object data) {
+        return new JsonResult(501, "error", data);
     }
 
-    public static IMoocJSONResult errorTokenMsg(String msg) {
-        return new IMoocJSONResult(502, msg, null);
+    public static JsonResult errorTokenMsg(String msg) {
+        return new JsonResult(502, msg, null);
     }
 
-    public static IMoocJSONResult errorException(String msg) {
-        return new IMoocJSONResult(555, msg, null);
+    public static JsonResult errorException(String msg) {
+        return new JsonResult(555, msg, null);
     }
 
-    public IMoocJSONResult() {
+    public JsonResult() {
 
     }
 
@@ -64,13 +64,13 @@ public class IMoocJSONResult {
 //        return new LeeJSONResult(status, msg, null);
 //    }
 
-    public IMoocJSONResult(Integer status, String msg, Object data) {
+    public JsonResult(Integer status, String msg, Object data) {
         this.status = status;
         this.msg = msg;
         this.data = data;
     }
 
-    public IMoocJSONResult(Object data) {
+    public JsonResult(Object data) {
         this.status = 200;
         this.msg = "OK";
         this.data = data;

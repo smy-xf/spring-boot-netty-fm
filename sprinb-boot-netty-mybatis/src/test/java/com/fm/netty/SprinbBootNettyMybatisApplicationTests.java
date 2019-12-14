@@ -1,4 +1,4 @@
-package com.fm.netty.mybatis;
+package com.fm.netty;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

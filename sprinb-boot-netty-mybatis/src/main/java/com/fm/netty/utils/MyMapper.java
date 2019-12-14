@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package com.fm.netty.mybatis.utils;
+package com.fm.netty.utils;
 
 
 import tk.mybatis.mapper.common.Mapper;

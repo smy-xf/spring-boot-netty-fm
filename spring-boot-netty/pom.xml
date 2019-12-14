@@ -131,6 +131,14 @@
                 之后依赖boot项目的项目如果想要使用devtools, 需要重新引入 -->
             <optional>true</optional>
         </dependency>
+
+        <!--自动生成get、set方法-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

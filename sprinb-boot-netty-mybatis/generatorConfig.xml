@@ -9,7 +9,7 @@
         <property name="endingDelimiter" value="`"/>
 
         <plugin type="tk.mybatis.mapper.generator.MapperPlugin">
-            <property name="mappers" value="com.fm.netty.mybatis.utils.MyMapper"/>
+            <property name="mappers" value="com.fm.netty.utils.MyMapper"/>
         </plugin>
 
         <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
@@ -19,7 +19,7 @@
         </jdbcConnection>
 
         <!-- 对于生成的pojo所在包 -->
-        <javaModelGenerator targetPackage="com.fm.netty.mybatis.pojo"
+        <javaModelGenerator targetPackage="com.fm.netty.pojo"
                             targetProject="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis\src\main\java">
             <!-- enableSubPackages:是否让schema作为包的后缀 -->
             <!--<property name="enableSubPackages" value="false"/>-->
@@ -35,7 +35,7 @@
         </sqlMapGenerator>
 
         <!-- 配置mapper对应的java映射 -->
-        <javaClientGenerator targetPackage="com.fm.netty.mybatis.mapper" targetProject="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis\src\main\java"
+        <javaClientGenerator targetPackage="com.fm.netty.mapper" targetProject="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\sprinb-boot-netty-mybatis\src\main\java"
                              type="XMLMAPPER">
             <!--<property name="enableSubPackages" value="false"/>-->
         </javaClientGenerator>

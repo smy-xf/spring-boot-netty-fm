@@ -1,4 +1,4 @@
-package com.fm.netty.mybatis.pojo;
+package com.fm.netty.pojo;
 
 import javax.persistence.*;
 

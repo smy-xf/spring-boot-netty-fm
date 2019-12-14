@@ -1,4 +1,4 @@
-package com.fm.netty.mybatis.mybatis;
+package com.fm.netty.mybatis;
 
 import java.io.File;
 import java.util.ArrayList;

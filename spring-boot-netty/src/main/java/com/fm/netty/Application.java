@@ -19,7 +19,7 @@ import tk.mybatis.spring.annotation.MapperScan;
 @MapperScan(basePackages = "com.fm.netty.mapper")
 public class Application {
     @Bean
-    public SpringUtil getSpingUtil() {
+    public SpringUtil getSpringUtil() {
         return new SpringUtil();
     }
 

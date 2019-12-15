@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mapper/ChatMsgMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mapper/FriendsRequestMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mapper/MyFriendsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/vo/UserVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/BeanUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/SprinbBootNettyMybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/SprinbBootNettyMybatisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/ChatMsgMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/FriendsRequestMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/MyFriendsMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mapper/UsersMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/mybatis/GeneratorDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/GeneratorDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/ChatMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/pojo/ChatMsg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/FriendsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/pojo/FriendsRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/MyFriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/pojo/MyFriends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/pojo/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/pojo/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/mybatis/utils/MyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/java/com/fm/netty/utils/MyMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/ChatMsgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/ChatMsgMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/FriendsRequestMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/FriendsRequestMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/MyFriendsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/MyFriendsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/test/java/com/fm/netty/mybatis/SprinbBootNettyMybatisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sprinb-boot-netty-mybatis/src/test/java/com/fm/netty/SprinbBootNettyMybatisApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/IMoocJSONResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/JsonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/vo/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/vo/UserVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/ChatMsgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/ChatMsgMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/FriendsRequestMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/FriendsRequestMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/MyFriendsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/MyFriendsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,14 +76,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576122279791" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-netty/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -125,11 +96,11 @@
       <recent name="com.fm.netty.netty" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\resources" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\pojo" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\utils" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\netty" />
-      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -291,7 +262,10 @@
       <workItem from="1576148042213" duration="11670000" />
       <workItem from="1576304985885" duration="3607000" />
       <workItem from="1576308630079" duration="3322000" />
-      <workItem from="1576313221486" duration="3894000" />
+      <workItem from="1576313221486" duration="4136000" />
+      <workItem from="1576387361208" duration="5031000" />
+      <workItem from="1576399399625" duration="726000" />
+      <workItem from="1576413231106" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>
@@ -363,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576159765472</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="注册登录后台逻辑实现">
+      <created>1576325192130</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576325192130</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,57 +371,34 @@
     <MESSAGE value="springboot整合netty" />
     <MESSAGE value="添加工具类" />
     <MESSAGE value="底层框架搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="底层框架搭建" />
+    <MESSAGE value="注册登录后台逻辑实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="注册登录后台逻辑实现" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576139719512">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1576139719512" />
-    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1576141489454">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576141489454" />
-    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1576141135081">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576141135081" />
-    <state width="1322" height="154" key="GridCell.Tab.0.bottom" timestamp="1576140990958">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="154" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576140990958" />
-    <state width="1322" height="154" key="GridCell.Tab.0.center" timestamp="1576140990957">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="154" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576140990957" />
-    <state width="1322" height="154" key="GridCell.Tab.0.left" timestamp="1576140990957">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="154" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576140990957" />
-    <state width="1322" height="154" key="GridCell.Tab.0.right" timestamp="1576140990958">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="154" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576140990958" />
-    <state x="279" y="0" key="SettingsEditor" timestamp="1576140329864">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="279" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576140329864" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1576141548903">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1576141548903" />
-    <state x="375" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1576137909779">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1576137909779" />
-    <state x="378" y="141" key="git4idea.merge.GitPullDialog" timestamp="1576141197792">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="378" y="141" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1576141197792" />
-    <state x="53" y="0" key="new project wizard" timestamp="1576141103241">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="53" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1576141103241" />
+    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" />
+    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" />
+    <state x="136" y="0" key="CommitChangelistDialog2" />
+    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" />
+    <state x="463" y="109" key="FileChooserDialogImpl" />
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" />
+    <state width="1322" height="154" key="GridCell.Tab.0.bottom" />
+    <state width="1322" height="154" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" />
+    <state width="1322" height="154" key="GridCell.Tab.0.center" />
+    <state width="1322" height="154" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" />
+    <state width="1322" height="154" key="GridCell.Tab.0.left" />
+    <state width="1322" height="154" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" />
+    <state width="1322" height="154" key="GridCell.Tab.0.right" />
+    <state width="1322" height="154" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" />
+    <state x="279" y="0" key="SettingsEditor" />
+    <state x="279" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" />
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog" />
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" />
+    <state x="378" y="141" key="git4idea.merge.GitPullDialog" />
+    <state x="378" y="141" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" />
+    <state x="53" y="0" key="new project wizard" />
+    <state x="53" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

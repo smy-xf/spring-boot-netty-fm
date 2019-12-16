@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils/utils.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yneed_other/fastFDS_tracker_storage_client_nginx安装配置.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/vo/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/vo/UserVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +74,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576122279791" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-netty/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/utils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -96,11 +94,11 @@
       <recent name="com.fm.netty.netty" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\yneed_other" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\resources" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\pojo" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java" />
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\utils" />
-      <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\netty" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,6 +264,7 @@
       <workItem from="1576387361208" duration="5031000" />
       <workItem from="1576399399625" duration="726000" />
       <workItem from="1576413231106" duration="630000" />
+      <workItem from="1576507124707" duration="126000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>

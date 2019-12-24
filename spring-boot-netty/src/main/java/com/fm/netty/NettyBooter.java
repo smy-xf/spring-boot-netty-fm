@@ -1,7 +1,6 @@
 package com.fm.netty;
 
 import com.fm.netty.netty.WsServer;
-import com.sun.xml.internal.ws.api.WSService;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;

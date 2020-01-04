@@ -15,9 +15,7 @@ import tk.mybatis.mapper.entity.Example.Criteria;
 /**
  * @author xiaofan
  * @version 1.0.0
- * @ClassName UserService.java
- * @Description 用户注册、登录Service实现类
- * @createTime 2019/12/14 14:56
+ * @desc 用户注册、登录Service实现类
  */
 @Service
 public class UserServiceImpl implements UserService {
@@ -29,7 +27,7 @@ public class UserServiceImpl implements UserService {
     private Sid sid;
 
     /**
-     * @description 判断用户名是否存在
+     *  @desc 判断用户名是否存在
      */
     @Transactional(propagation = Propagation.SUPPORTS)
     @Override
@@ -44,7 +42,7 @@ public class UserServiceImpl implements UserService {
     }
 
     /**
-     * @Description: 查询用户是否存在
+     *  @desc 查询用户是否存在
      */
     @Transactional(propagation = Propagation.SUPPORTS)
     @Override
@@ -60,7 +58,7 @@ public class UserServiceImpl implements UserService {
     }
 
     /**
-     * @Description: 用户保存
+     * @desc 用户保存
      */
     @Transactional(propagation = Propagation.REQUIRED)
     @Override
@@ -81,5 +79,18 @@ public class UserServiceImpl implements UserService {
         //保存用户
         usersMapper.insert(user);
         return user;
+    }
+
+
+    @Transactional(propagation = Propagation.REQUIRED)
+    @Override
+    public Users updateUserInfo(Users user) {
+        int i = usersMapper.updateByPrimaryKeySelective(user);
+        return queryUserById(user.getId());
+    }
+
+    @Transactional(propagation = Propagation.SUPPORTS)
+    private  Users queryUserById(String userId) {
+        return usersMapper.selectByPrimaryKey(userId);
     }
 }

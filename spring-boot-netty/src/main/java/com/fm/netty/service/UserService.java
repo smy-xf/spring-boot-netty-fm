@@ -27,4 +27,8 @@ public interface UserService {
      */
     public Users saveUser(Users users) throws Exception;
 
+    /**
+     * @Description: 用户更新
+     */
+    public Users updateUserInfo(Users user);
 }

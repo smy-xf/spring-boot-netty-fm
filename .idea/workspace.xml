@@ -7,13 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/bo/UserBo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/NettyBooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/NettyBooter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/test/java/com/fm/netty/SpringBootNettyApplicationTests.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +90,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/smy-xf/springboot-netty-fm-muiApp.git" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fm.netty.pojo.bo" />
       <recent name="com.fm.netty.pojo" />
       <recent name="com.fm.netty.utils" />
       <recent name="com.fm.netty.controller" />
@@ -276,6 +279,10 @@
       <workItem from="1576684769900" duration="454000" />
       <workItem from="1576761227350" duration="1796000" />
       <workItem from="1577186379413" duration="5065000" />
+      <workItem from="1578124197858" duration="3527000" />
+      <workItem from="1578127768697" duration="171000" />
+      <workItem from="1578127976316" duration="187000" />
+      <workItem from="1578128354456" duration="7194000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>

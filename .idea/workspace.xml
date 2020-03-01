@@ -7,20 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d3b0578-e54d-47b7-bfe1-e15fdcd27686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/pojo/bo/UserBo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/java/com/fm/netty/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-netty/src/main/resources/application.properties" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="ErrorTreeViewConfiguration">
     <option name="hideWarnings" value="true" />
@@ -79,6 +77,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -90,7 +89,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
     <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
@@ -112,17 +111,19 @@
       <recent name="D:\worksapces_all\idea-workspace\spring-boot-netty-fm\spring-boot-netty\src\main\java\com\fm\netty\pojo" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="spring-boot-netty" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringBootNettyApplication">
     <configuration name="GeneratorDisplay (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -283,6 +284,17 @@
       <workItem from="1578127768697" duration="171000" />
       <workItem from="1578127976316" duration="187000" />
       <workItem from="1578128354456" duration="7194000" />
+      <workItem from="1583051571445" duration="749000" />
+      <workItem from="1583052344621" duration="517000" />
+      <workItem from="1583052921826" duration="185000" />
+      <workItem from="1583053183964" duration="247000" />
+      <workItem from="1583053453891" duration="418000" />
+      <workItem from="1583053974939" duration="458000" />
+      <workItem from="1583054457783" duration="603000" />
+      <workItem from="1583055106050" duration="247000" />
+      <workItem from="1583055385599" duration="128000" />
+      <workItem from="1583055627167" duration="158000" />
+      <workItem from="1583055860039" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1576139791565</created>
@@ -400,30 +412,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="boot与fastdfs集成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" />
-    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" />
-    <state x="136" y="0" key="CommitChangelistDialog2" />
-    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" />
-    <state x="463" y="109" key="FileChooserDialogImpl" />
-    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" />
-    <state width="1322" height="154" key="GridCell.Tab.0.bottom" />
-    <state width="1322" height="154" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" />
-    <state width="1322" height="154" key="GridCell.Tab.0.center" />
-    <state width="1322" height="154" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" />
-    <state width="1322" height="154" key="GridCell.Tab.0.left" />
-    <state width="1322" height="154" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" />
-    <state width="1322" height="154" key="GridCell.Tab.0.right" />
-    <state width="1322" height="154" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" />
-    <state x="279" y="0" key="SettingsEditor" />
-    <state x="279" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" />
-    <state x="375" y="195" key="com.intellij.ide.util.TipDialog" />
-    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" />
-    <state x="378" y="141" key="git4idea.merge.GitPullDialog" />
-    <state x="378" y="141" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" />
-    <state x="53" y="0" key="new project wizard" />
-    <state x="53" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" />
+    <state x="368" y="29" key="#HTTP_Proxy" timestamp="1583052647024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="29" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1583052647024" />
+    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583051570214" />
+    <state x="423" y="176" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="136" y="0" key="CommitChangelistDialog2" timestamp="1583055997117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="136" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583055997117" />
+    <state x="358" y="231" key="FileChooserDialogImpl" timestamp="1583053419819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="358" y="231" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583053419819" />
+    <state width="1322" height="154" key="GridCell.Tab.0.bottom" timestamp="1583051570214" />
+    <state width="1322" height="154" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state width="1322" height="154" key="GridCell.Tab.0.center" timestamp="1583051570214" />
+    <state width="1322" height="154" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state width="1322" height="154" key="GridCell.Tab.0.left" timestamp="1583051570214" />
+    <state width="1322" height="154" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state width="1322" height="154" key="GridCell.Tab.0.right" timestamp="1583051570214" />
+    <state width="1322" height="154" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="513" y="211" key="SettingsEditor" timestamp="1583055782930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="513" y="211" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583055782930" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583051570214" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583051589508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583051589508" />
+    <state x="378" y="141" key="git4idea.merge.GitPullDialog" timestamp="1583051570214" />
+    <state x="378" y="141" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
+    <state x="53" y="0" key="new project wizard" timestamp="1583051570214" />
+    <state x="53" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1583051570214" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
